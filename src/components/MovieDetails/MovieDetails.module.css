@@ -1,0 +1,21 @@
+.DetailInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 600px;
+}
+
+.DetailVideoPost {
+    display: flex;
+    column-gap: 40px;
+}
+
+.VideoDetails {
+    align-items: center;
+    padding-top: 10px;
+}
+
+.Video {
+    height: 346px;
+    width: 546px;
+}

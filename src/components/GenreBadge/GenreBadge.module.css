@@ -1,0 +1,15 @@
+.BadgesWrapper {
+    justify-content: space-evenly;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.badge {
+    background-color: #a4eacc;
+    border-radius: 4px;
+    padding: 4px 8px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #333;
+}

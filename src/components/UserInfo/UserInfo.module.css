@@ -1,0 +1,11 @@
+.MainUser {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+    cursor: pointer;
+}
+
+.Logout, .UserImg {
+    width: 30px;
+    height: 30px;
+}

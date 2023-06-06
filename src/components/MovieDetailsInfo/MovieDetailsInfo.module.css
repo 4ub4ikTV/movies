@@ -1,0 +1,17 @@
+.ContainerInfo {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    row-gap: 25px;
+}
+
+.ContainerInfo span {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.PInfo {
+    display: flex;
+    column-gap: 3px;
+    flex-wrap: wrap;
+}
